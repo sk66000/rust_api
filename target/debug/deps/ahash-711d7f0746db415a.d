@@ -1,0 +1,12 @@
+E:\workspace\rust_api\target\debug\deps\libahash-711d7f0746db415a.rmeta: C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src/lib.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\convert.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\fallback_hash.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\hash_map.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\hash_set.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\operations.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\random_state.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\specialize.rs
+
+E:\workspace\rust_api\target\debug\deps\ahash-711d7f0746db415a.d: C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src/lib.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\convert.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\fallback_hash.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\hash_map.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\hash_set.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\operations.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\random_state.rs C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\specialize.rs
+
+C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src/lib.rs:
+C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\convert.rs:
+C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\fallback_hash.rs:
+C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\hash_map.rs:
+C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\hash_set.rs:
+C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\operations.rs:
+C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\random_state.rs:
+C:\Users\krisp\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.7.8\src\specialize.rs:
