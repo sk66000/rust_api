@@ -1,8 +1,9 @@
+use actix_web::error::ErrorUnauthorized;
+use actix_web::error::Error;
 use actix_web::{web, App, HttpServer, Responder, HttpResponse};
 use sqlx::postgres::PgPoolOptions;
 use dotenv::dotenv;
 use std::env;
-use actix_web::{web, App, HttpServer, HttpResponse, Error};
 
 use actix_web::dev::ServiceRequest;
 use actix_web_httpauth::extractors::bearer::BearerAuth;
